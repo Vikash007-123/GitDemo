@@ -7,6 +7,8 @@ public class SeleniumTest {
 	@Test
 	public void check() {
 		System.out.println("check selenium");
+                System.out.println("check cucumber");
+
 	}
 	@Test
 	public void uiScreen() {
